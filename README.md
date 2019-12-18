@@ -30,3 +30,13 @@ Population Count in 2019
 
 2019 population Density of Eritrea
 ![](Pop19density.png)
+
+### Regression Lines for different variable combinations
+Correlation between water and topography& urban areas & night time lights & slope of Eritrea.
+![](Linear2.png)
+Statistics for Correlation between 2019 population and water& urban areas & bare areas in Eritrea
+![](pop19 ntl+dst190 200.png)
+Correlation between 2019 population and water& herbaceous cover & mosaic natural vegetation & grasslands& lichens and mosses & sparse vegetation & tree cover, flooded, fresh or brakish water & urban areas & bare areas & slope & night time lights & topography in Eritrea.
+![](Linear1.png)
+Statistics for correlation between 2019 population and water& herbaceous cover & mosaic natural vegetation & grasslands& lichens and mosses & sparse vegetation & tree cover, flooded, fresh or brakish water & urban areas & bare areas & slope & night time lights & topography in Eritrea.
+![](pop19 ntl+water+dsts+topo+slope.png)
