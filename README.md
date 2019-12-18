@@ -32,36 +32,36 @@ Population Count in 2019
 
 ### Regression Lines for different variable combinations
 Correlation between water and topography& urban areas & night time lights & slope of Eritrea.
-![](Linear2.png)
+![](Linear2.png)  
 Statistics for Correlation between 2019 population and water& urban areas & bare areas in Eritrea
-![](pop19 ntl+dst190 200.png)
+![](pop19 ntl+dst190 200.png)  
 Correlation between 2019 population and water& herbaceous cover & mosaic natural vegetation & grasslands& lichens and mosses & sparse vegetation & tree cover, flooded, fresh or brakish water & urban areas & bare areas & slope & night time lights & topography in Eritrea.
-![](Linear1.png)
+![](Linear1.png)  
 Statistics for correlation between 2019 population and water& herbaceous cover & mosaic natural vegetation & grasslands& lichens and mosses & sparse vegetation & tree cover, flooded, fresh or brakish water & urban areas & bare areas & slope & night time lights & topography in Eritrea.
 ![](pop19 ntl+water+dsts+topo+slope.png)
 
 
 ### 3 major models & comparison
-#### Sum Model (population as response variable and predictors are the sum of covariates)
-![](3D Diff_Predictors-Sums.png)
+#### Sum Model (population as response variable and predictors are the sum of covariates)  
+![](3D Diff_Predictors-Sums.png)   
 Difference: Predictors-Sums
-![](Diff_Predictors-Sums.png)
+![](Diff_Predictors-Sums.png)  
 Population: Predictors-Sums
-![](PPL_Predictors-Sums.png)
+![](PPL_Predictors-Sums.png)  
 
-#### Mean Model (population as response variable and predictors are the mean of covariates)
-![](3D Diff_Predictors-Means.png)
+#### Mean Model (population as response variable and predictors are the mean of covariates)  
+![](3D Diff_Predictors-Means.png)  
 Difference: Predictors-Means
-![](Diff_Predictors-Means.png)
+![](Diff_Predictors-Means.png)  
 Population: Predictors-Means
-![](PPL_Predictos-Means.png)
+![](PPL_Predictos-Means.png)  
 
 #### Logarithm Model (Reponse variable is log of population and the predictors are mean of covariates)
-![](3D Diff_Response-LogPop.png)![](LogPop Rotate(1).png)![](LogPop Rotate(2).png)![](LogPop Rotate(3).png)
+![](3D Diff_Response-LogPop.png)![](LogPop Rotate(1).png)![](LogPop Rotate(2).png)![](LogPop Rotate(3).png)  
 Difference: Response-Log of Population
-![](Diff_Response-LogPop.png)
+![](Diff_Response-LogPop.png)  
 Population: Response-Log of Population
-![](PPL_Response-LogPop.png)
+![](PPL_Response-LogPop.png)  
 
 #### Comparison
 The r^2 for sum model ( population as response variable and predictors are the sum of covariates) is 0.5219, the r^2 for mean model is 0.3439 and the r^2 for logpop15 model is 0.3693. Among the three different r^2, 0.5219 is the biggest number, which indicates the sum model is the best prediction. However, these values all fall into the weak correlation range, which decrease the influence of r square in model judgement. Also, the p-value for the sum model, 3.056e-05, is the smallest among the three. For mean model it is 0.003684 and for logpop is 0.002093, which shows the extremely low possibility of coincidence.  
@@ -119,7 +119,7 @@ All health care service sites are clustered in the middle of Asmara on the map. 
 
 ## Future View of Eritrea Infrastructures and Services
 ### Asmara & Berikh
-![](table.png)
+![](table.png)  
 Total Population:  362868  
 Total Area: 441264394 m^2  
 6 Urban Area: 212448000 m^2  
@@ -136,8 +136,26 @@ Population per healthcare sites: 40319
 ![](屏幕截图(176).png)
 ![](屏幕截图(177).png)
 ![](屏幕截图(174).png)
+
+### Topography impact on urban areas,transportation and health care sites.
 Asmara and Berikh features plateau and mountains.  
 Urban areas all locate in places with a few variation in altitude.  
 All of the 6 urban areas are away from mountains and cliffs.  
 Roads were more easily to built along the way wining up the mountain or goes along valleys.  
 Similarly, all the health care sites are in Asmara City, capital of Eritrea, which is a plain. Roads clustered around those 9 health care sites and connect Asmara and Berikh.  
+Eritrea locates on the northern tip of Ethiopia hinterland plateau with an altitude of 7876 feet (2325m).  
+It mainly is plateau and has cliffs and valleys along with roads passing through.  
+Asmara and Berikh are not closed to the Red Sea. High altitudes prevent roads constructions and transportation.  
+Large density urban areas near Keren rather than Asmara, and there are no people clustering among health care sites.  
+
+### Health Care Issue  
+Over 2/3 of the people in Eritrea live below the poverty line.  
+HIV is the dominant disease in Eritrea and the control of HIV is a national policy in Eritrea. (wiki)  
+Malaria is a major health concern affecting 75% population. (World Bank)  
+
+During 1998-2000, there was a 2 year war between Eritrea and Ethiopia. The final peace was not agreed until 2018.  
+The political struggles result in losses of health workers in Eritrea in 2005. The number of physicians, nurses and midwives has doubled during the past 7 years.  
+In 2003, Eritrea opened the first medical college.  
+In 2012, graduates tripled the number of pediatricians and doubled the number of surgeons.  
+
+# Thank you for reading!
