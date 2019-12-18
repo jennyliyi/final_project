@@ -1,5 +1,6 @@
-![](flag.png)
 # Eritrea
+![](flag.png)
+
  DATA 100 Final Project on Eritrea
  
 ## Administrative Subdivisions of Eritrea
