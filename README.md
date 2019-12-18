@@ -4,7 +4,7 @@
  DATA 100 Final Project on Eritrea
  
 ## Administrative Units, Population and Description
-Eritrea has 6 subdivisions: Anseba, Maekel, Gash Barka, Semenawi Keyih Bahri, Debub, Debubawi Keyih Bahri.
+Eritrea has 6 subdivisions: Anseba, Maekel, Gash Barka, Semenawi Keyih Bahri, Debub, Debubawi Keyih Bahri.  
 ![](Eritrea_regions_numbered.png)
 ### National Flag
 ![](Flag.png)  
@@ -21,13 +21,13 @@ Except Asmara, population density in Debub, including Massawa and Keren, is the 
 
 ## Investigating Land Use and Land Cover
 ### Histograms with different variables
-Night Time Lights Density of Eritrea, 2019
+Night Time Lights Density of Eritrea, 2019  
 ![](NTLdensity.png) ![](NTL.png)
 
-Population Count in 2019
+Population Count in 2019  
 ![](pop19 count.png)
 
-2019 population Density of Eritrea
+2019 population Density of Eritrea  
 ![](Pop19density.png)
 
 ### Regression Lines for different variable combinations
