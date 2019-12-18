@@ -118,4 +118,26 @@ The primary roads is in deep blue, secondary in blue and tertiary in white. The 
 All health care service sites are clustered in the middle of Asmara on the map. People gather In between these facilities.
 
 ## Future View of Eritrea Infrastructures and Services
+### Asmara & Berikh
+![](table.png)
+Total Population:  362868
+Total Area: 441264394 m^2
+6 Urban Area: 212448000 m^2
+Total Length of Roads: 217913.9m
+Primary Roads: 9
+Secondary Roads:3
+Tertiary Roads:11
+1 Hospital, 1 Clinic, 7 Pharmacies
+Population per healthcare sites: 40319
+![](AB111.png)
 
+#### 3D Mapview
+![](屏幕截图(175).png)
+![](屏幕截图(176).png)
+![](屏幕截图(177).png)
+![](屏幕截图(174).png)
+Asmara and Berikh features plateau and mountains.
+Urban areas all locate in places with a few variation in altitude.
+All of the 6 urban areas are away from mountains and cliffs.
+Roads were more easily to built along the way wining up the mountain or goes along valleys.
+Similarly, all the health care sites are in Asmara City, capital of Eritrea, which is a plain. Roads clustered around those 9 health care sites and connect Asmara and Berikh.
