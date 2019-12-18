@@ -84,7 +84,7 @@ Among this two, the small p-value and the smallest absolute difference value sho
 ## Accessibility to Health Care through Transportation Networks
 ### Massawa
 Population per grid cell throughout Massawa, Eritrea
-![](Massawa1.png)
+![](Massawa000.png)
 Roadways throughout Massawa, Eritrea
 ![](Rplot02.png)
 When cropped, there are no health care sites in Massawa, neither airports. There are three big roads in Massawa.
