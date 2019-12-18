@@ -7,10 +7,10 @@
 Eritrea has 6 subdivisions: Anseba, Maekel, Gash Barka, Semenawi Keyih Bahri, Debub, Debubawi Keyih Bahri.
 ![](Eritrea_regions_numbered.png)
 ### National Flag
-![](flag.png)
-Eritrea, or the State of Eritrea, is a country in the Horn of Africa near Sudan and Ethiopia. Eritrea has an area of 125,000 km^2.
-Asmara City ( The red point on map ) is capital city of Eritrea.
-Massawa is its national port on the Red Sea and was the capital during colonization period. Keren is now a commercial hub in Eritrea.
+![](Flag.png)
+Eritrea, or the State of Eritrea, is a country in the Horn of Africa near Sudan and Ethiopia. \Eritrea has an area of 125,000 km^2.\
+Asmara City ( The red point on map ) is capital city of Eritrea.\
+Massawa is its national port on the Red Sea and was the capital during colonization period. \Keren is now a commercial hub in Eritrea.
 ![](map.png)
 
 ### Population of Eritrea
@@ -111,7 +111,7 @@ The dot between those health care sites ( white dots ) may locate in CBD. It sho
 
 #### Roads and transportation networks and health care service description
 1.Massawa:
-When cropped, there are no health care sites in Massawa, neither airports. There are three big roads in Massawa. Primary road is red, secondary blue, and tertiary yellow. Primary road is heading to the capital city (and almost all health care cites), the secondary roads is connecting to Foro and other coastal cities along the coast line next to Red Sea, and the tertiary road is heading to Keren ( population 12,000), one of the commercial hubs in Eritrea. The access to health services is weak.
+When cropped, there are no health care sites in Massawa, neither airports. There are three big roads in Massawa. Primary road is red, secondary blue, and tertiary yellow. Primary road is heading to the capital city (and almost all health care cites), the secondary roads is connecting to Foro and other coastal cities along the coast line next to Red Sea, and the tertiary road is heading to Keren ( population 12,000), one of the commercial hubs in Eritrea. The access to health services is weak.\
 2.Asmara:
 The primary roads is in deep blue, secondary in blue and tertiary in white. The transportation network in Asmara is much more dense than that in Massawa.
 All health care service sites are clustered in the middle of Asmara on the map. People gather In between these facilities.
