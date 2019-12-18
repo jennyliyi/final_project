@@ -1,26 +1,24 @@
 # Eritrea
-![](flag.png)
+
 
  DATA 100 Final Project on Eritrea
  
-## Administrative Subdivisions of Eritrea
+## Administrative Units, Population and Description
 Eritrea has 6 subdivisions: Anseba, Maekel, Gash Barka, Semenawi Keyih Bahri, Debub, Debubawi Keyih Bahri.
 ![](Eritrea_regions_numbered.png)
-
+### National Flag
+![](flag.png)
 Eritrea, or the State of Eritrea, is a country in the Horn of Africa near Sudan and Ethiopia. Eritrea has an area of 125,000 km^2.
 Asmara City ( The red point on map ) is capital city of Eritrea.
 Massawa is its national port on the Red Sea and was the capital during colonization period. Keren is now a commercial hub in Eritrea.
 ![](map.png)
 
-
-
-
-
-## Population of Eritrea
+### Population of Eritrea
 ![](Eritrea_Project 1.png)
 ![](Eritrea000.png)
 Except Asmara, population density in Debub, including Massawa and Keren, is the highest among the 6 subdivisions. Debub shares 26.8% of Eritrea population and has a density over 1,000,000.
 
+## Investigating Land Use and Land Cover
 ### Histograms with different variables
 Night Time Lights Density of Eritrea, 2019
 ![](NTLdensity.png) ![](NTL.png)
@@ -43,21 +41,21 @@ Statistics for correlation between 2019 population and water& herbaceous cover &
 
 
 ### 3 major models & comparison
-#### Sum Model ( population as response variable and predictors are the sum of covariates)
+#### Sum Model (population as response variable and predictors are the sum of covariates)
 ![](3D Diff_Predictors-Sums.png)
 Difference: Predictors-Sums
 ![](Diff_Predictors-Sums.png)
 Population: Predictors-Sums
 ![](PPL_Predictors-Sums.png)
 
-#### Mean Model ( population as response variable and predictors are the mean of covariates)
+#### Mean Model (population as response variable and predictors are the mean of covariates)
 ![](3D Diff_Predictors-Means.png)
 Difference: Predictors-Means
 ![](Diff_Predictors-Means.png)
 Population: Predictors-Means
 ![](PPL_Predictos-Means.png)
 
-#### Mean Model ( Reponse variable is log of population and the predictors are mean of covariates)
+#### Logarithm Model (Reponse variable is log of population and the predictors are mean of covariates)
 ![](3D Diff_Response-LogPop.png)![](LogPop Rotate(1).png)![](LogPop Rotate(2).png)![](LogPop Rotate(3).png)
 Difference: Response-Log of Population
 ![](Diff_Response-LogPop.png)
@@ -82,3 +80,41 @@ Among this two, the small p-value and the smallest absolute difference value sho
 #### Massawa
 ![](Massawa1.png)
 ![](Massawa2.png)
+
+## Accessibility to Health Care through Transportation Networks
+### Massawa
+Population per grid cell throughout Massawa, Eritrea
+![](Massawa1.png)
+Roadways throughout Massawa, Eritrea
+![](Rplot02.png)
+When cropped, there are no health care sites in Massawa, neither airports. There are three big roads in Massawa.
+Eritrea is a young country that overall limited amounts of roads construction and facilities have been built on it at the moment the data was collected.
+Then I switched to its capital, at which almost all health care sites are.
+
+### Asmara
+Access to Health Care Services throughout Asmara, Eritrea
+![](Rplot05.png)![](Rplot04.png)
+
+### Comparison
+#### Population
+Massawa: 53,090
+Asmara City: 896,000 in wiki (243,242 shown by Rstudio data)
+
+#### Number of human settlements, urban areas
+1.Massawa: 4
+The middle-right two dots are closed to the Red Sea, which indicates these urban areas with a density around 150 and pop15 around 175 may be flourished because of the ports in Massawa.
+The top dot are next to Keren and other more developed cities in Eritrea, thus this dot is of highest density and population in Massawa.
+The upper-left light blue dot is near to the capital Asmara and it has a density of 100.
+2.Asmara: 2
+The range of density is different in Asmara , From 75 to 2000, to that in Massawa, from 75 to 250.
+The dot between those health care sites ( white dots ) may locate in CBD. It shows a pop15 of 60000 and a density of 1100.
+
+#### Roads and transportation networks and health care service description
+1.Massawa:
+When cropped, there are no health care sites in Massawa, neither airports. There are three big roads in Massawa. Primary road is red, secondary blue, and tertiary yellow. Primary road is heading to the capital city (and almost all health care cites), the secondary roads is connecting to Foro and other coastal cities along the coast line next to Red Sea, and the tertiary road is heading to Keren ( population 12,000), one of the commercial hubs in Eritrea. The access to health services is weak.
+2.Asmara:
+The primary roads is in deep blue, secondary in blue and tertiary in white. The transportation network in Asmara is much more dense than that in Massawa.
+All health care service sites are clustered in the middle of Asmara on the map. People gather In between these facilities.
+
+## Future View of Eritrea Infrastructures and Services
+
