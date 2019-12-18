@@ -45,17 +45,23 @@ Statistics for correlation between 2019 population and water& herbaceous cover &
 ### 3 major models & comparison
 #### Sum Model ( population as response variable and predictors are the sum of covariates)
 ![](3D Diff_Predictors-Sums.png)
+Difference: Predictors-Sums
 ![](Diff_Predictors-Sums.png)
+Population: Predictors-Sums
 ![](PPL_Predictors-Sums.png)
 
 #### Mean Model ( population as response variable and predictors are the mean of covariates)
 ![](3D Diff_Predictors-Means.png)
+Difference: Predictors-Means
 ![](Diff_Predictors-Means.png)
+Population: Predictors-Means
 ![](PPL_Predictos-Means.png)
 
 #### Mean Model ( Reponse variable is log of population and the predictors are mean of covariates)
 ![](3D Diff_Response-LogPop.png)![](LogPop Rotate(1).png)![](LogPop Rotate(2).png)![](LogPop Rotate(3).png)
+Difference: Response-Log of Population
 ![](Diff_Response-LogPop.png)
+Population: Response-Log of Population
 ![](PPL_Response-LogPop.png)
 
 #### Comparison
