@@ -40,3 +40,26 @@ Correlation between 2019 population and water& herbaceous cover & mosaic natural
 ![](Linear1.png)
 Statistics for correlation between 2019 population and water& herbaceous cover & mosaic natural vegetation & grasslands& lichens and mosses & sparse vegetation & tree cover, flooded, fresh or brakish water & urban areas & bare areas & slope & night time lights & topography in Eritrea.
 ![](pop19 ntl+water+dsts+topo+slope.png)
+
+
+### 3 major models & comparison
+#### Sum Model ( population as response variable and predictors are the sum of covariates)
+![](3D Diff_Predictors-Sums.png)
+![](Diff_Predictors-Sums.png)
+![](PPL_Predictors-Sums.png)
+
+#### Mean Model ( population as response variable and predictors are the mean of covariates)
+![](3D Diff_Predictors-Means.png)
+![](Diff_Predictors-Means.png)
+![](PPL_Predictos-Means.png)
+
+#### Mean Model ( Reponse variable is log of population and the predictors are mean of covariates)
+![](3D Diff_Response-LogPop.png)![](LogPop Rotate(1).png)![](LogPop Rotate(2).png)![](LogPop Rotate(3).png)
+![](Diff_Response-LogPop.png)
+![](PPL_Response-LogPop.png)
+
+#### Comparison
+The r^2 for sum model ( population as response variable and predictors are the sum of covariates) is 0.5219, the r^2 for mean model is 0.3439 and the r^2 for logpop15 model is 0.3693. Among the three different r^2, 0.5219 is the biggest number, which indicates the sum model is the best prediction. However, these values all fall into the weak correlation range, which decrease the influence of r square in model judgement. Also, the p-value for the sum model, 3.056e-05, is the smallest among the three. For mean model it is 0.003684 and for logpop is 0.002093, which shows the extremely low possibility of coincidence.
+The absolute difference for sum model is 2621317, for means one is 4038076 and for the logpop15 is 2599955. Among the three values the 2599955 is the smallest, and thus presents a best visualized plot and smallest variation. In conclusion, the logpop15 model and the sum model yield the better results.  
+Among this two, the small p-value and the smallest absolute difference value shows that the logpop15 model ( Reponse variable is log of population and the predictors are mean of covariates) produces the best result. The outstanding yellow and red spot on the two 2d logpop plots is Eritrea’s capital city-- Asmara. The peak on the following 3d plot also matches this location.
+![](Eritrea000.png)
