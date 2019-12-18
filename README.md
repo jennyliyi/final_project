@@ -119,7 +119,7 @@ All health care service sites are clustered in the middle of Asmara on the map. 
 
 ## Future View of Eritrea Infrastructures and Services
 ### Asmara & Berikh
-![](table.png)  
+![](table.jpg)  
 Total Population:  362868  
 Total Area: 441264394 m^2  
 6 Urban Area: 212448000 m^2  
