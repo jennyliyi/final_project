@@ -12,9 +12,9 @@ Asmara City ( The red point on map ) is capital city of Eritrea.
 Massawa is its national port on the Red Sea and was the capital during colonization period. Keren is now a commercial hub in Eritrea.
 ![](map.png)
 
-![](Eritrea222.png)
 
-![](Eritrea111.png)
+
+
 
 ## Population of Eritrea
 ![](Eritrea_Project 1.png)
@@ -69,3 +69,16 @@ The r^2 for sum model ( population as response variable and predictors are the s
 The absolute difference for sum model is 2621317, for means one is 4038076 and for the logpop15 is 2599955. Among the three values the 2599955 is the smallest, and thus presents a best visualized plot and smallest variation. In conclusion, the logpop15 model and the sum model yield the better results.  
 Among this two, the small p-value and the smallest absolute difference value shows that the logpop15 model ( Reponse variable is log of population and the predictors are mean of covariates) produces the best result. The outstanding yellow and red spot on the two 2d logpop plots is Eritrea’s capital city-- Asmara. The peak on the following 3d plot also matches this location.
 ![](Eritrea000.png)
+
+### Mapview the Difference
+#### Eritrea Overview
+![](Eritrea111.png)
+![](Eritrea222.png)
+
+#### Asmara
+![](Asmara1.png)
+![](Asmara2.png)
+
+#### Massawa
+![](Massawa1.png)
+![](Massawa2.png)
