@@ -8,8 +8,9 @@ Eritrea has 6 subdivisions: Anseba, Maekel, Gash Barka, Semenawi Keyih Bahri, De
 ![](Eritrea_regions_numbered.png)
 ### National Flag
 ![](Flag.png)
-Eritrea, or the State of Eritrea, is a country in the Horn of Africa near Sudan and Ethiopia. \Eritrea has an area of 125,000 km^2.\
-Asmara City ( The red point on map ) is capital city of Eritrea.\
+Eritrea, or the State of Eritrea, is a country in the Horn of Africa near Sudan and Ethiopia.  
+Eritrea has an area of 125,000 km^2.  
+Asmara City ( The red point on map ) is capital city of Eritrea.  
 Massawa is its national port on the Red Sea and was the capital during colonization period. \Keren is now a commercial hub in Eritrea.
 ![](map.png)
 
