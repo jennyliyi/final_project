@@ -16,6 +16,6 @@ Massawa is its national port on the Red Sea and was the capital during colonizat
 ![](Eritrea111.png)
 
 ## Population of Eritrea
-![](Eritrea_Pop.png)
+![](Eritrea_Project 1.png)
 ![](Eritrea000.png)
 Population density is highest in Debub, in which includes Massawa and Keren.
